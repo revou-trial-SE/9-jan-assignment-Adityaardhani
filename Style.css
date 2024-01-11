@@ -1,0 +1,16 @@
+@import url(;https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">)
+{
+Padding : 0;
+Margin  : 0;
+Box-sizing: border-box ;
+}
+html{
+    font-family: Roboto ;
+    font-size: 18px ;
+}
+#hero {
+    width: 100%;
+    height: 100vh;
+    background: url('./IMAGE/Image\ 01.jpg') no-repeat center / cover;
+    color : black
+}
